@@ -1,0 +1,21 @@
+.items:hover{
+    font-weight: bold;
+    color: yellow;
+}
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.signup{
+    color: white;
+}
+.container11{
+    /* border: 2px solid red; */
+    width: 500px;
+    margin: auto;
+}
+.flexxx{
+    /* border: 2px solid black; */
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
